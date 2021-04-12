@@ -11,3 +11,4 @@ I noticed there's very little documentation on this board and I will attempt to 
 
 I uploaded some decent quality pictures of the board.
 
+It has an ESP Wi-Fi slot (no current marlin configuration available)
